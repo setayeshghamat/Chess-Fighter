@@ -1,5 +1,6 @@
 # T-JAV-501-STG_12
 
+test
 
 CHESS FIGHTER
 

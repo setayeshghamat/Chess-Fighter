@@ -147,7 +147,7 @@ public class ControlPanel extends JPanel {
     private int getSelectedTimeInSeconds(String selectedTimer) {
         return switch (selectedTimer) {
 
-            case "5 Minutes" -> 300;
+            case "5 Minutes" -> 10;
             case "30 Minutes" -> 1800;
             default -> 600; // Default to 10 Minutes
         };

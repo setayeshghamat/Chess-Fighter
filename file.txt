@@ -1,0 +1,5 @@
+tristan,0
+exze,1
+sety,1
+efcrc,0
+setqyesh,1
