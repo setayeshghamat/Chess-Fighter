@@ -7,7 +7,7 @@ A **2D Player-vs-Player chess game** built in **Java** with **Swing**, designed 
 ## ✨ Overview
 
 **CHESS FIGHTER** is a digital interpretation of the classic strategy game.  
-Pick your side, customize your theme and timer, and play locally against another player — all inside a simple and intuitive desktop UI.
+Pick your side, customize your theme and timer, and play locally against another player, all inside a simple and intuitive desktop UI.
 
 ---
 
